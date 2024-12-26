@@ -1,25 +1,11 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22001
-Fork on GitHub
-7021
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm NAVEEN.K</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knaveen1705&label=Profile%20views&color=0e75b6&style=flat" alt="knaveen1705" /> </p>
 
 - 🌱 I’m currently learning **Node.js**
+
+- 💬 Ask me about **I am currently pursuing my MCA and aiming to become a full-stack developer. I am actively upskilling myself in technologies like React.js for front-end development, Node.js for back-end development, and MongoDB for database management.**
 
 - 📫 How to reach me **naveenk170502@gmail.com**
 
@@ -34,28 +20,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knaveen1705&show_icons=true&locale=en" alt="knaveen1705" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knaveen1705&" alt="knaveen1705" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
